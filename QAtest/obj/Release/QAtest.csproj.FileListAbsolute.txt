@@ -1,0 +1,10 @@
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\QAtest.exe.config
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\QAtest.exe
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\QAtest.pdb
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\nunit.framework.dll
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\WebDriver.dll
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\nunit.framework.pdb
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\nunit.framework.xml
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Release\WebDriver.xml
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\obj\Release\QAtest.exe
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\obj\Release\QAtest.pdb

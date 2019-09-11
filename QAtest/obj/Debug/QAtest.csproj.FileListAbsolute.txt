@@ -1,0 +1,11 @@
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\QAtest.exe.config
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\QAtest.exe
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\QAtest.pdb
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\nunit.framework.dll
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\WebDriver.dll
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\nunit.framework.pdb
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\nunit.framework.xml
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\bin\Debug\WebDriver.xml
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\obj\Debug\QAtest.exe
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\obj\Debug\QAtest.pdb
+C:\Users\Pritom\Documents\Visual Studio 2015\Projects\QAtest\QAtest\obj\Debug\QAtest.csprojResolveAssemblyReference.cache
